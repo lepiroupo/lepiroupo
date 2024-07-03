@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/lepiroupo"><img src="https://api.daily.dev/devcards/v2/qgl4xl6JA58rNjjRv6AdG.png?type=default&r=qd5" width="356" alt="Leandro Piroupo's Dev Card"/></a>
 <!--
 **lepiroupo/lepiroupo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
